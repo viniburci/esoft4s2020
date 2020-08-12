@@ -1,3 +1,11 @@
 package oo.aula20200811;
 
-main
+public class AppOlá 
+{
+	
+	public static void main(String[] argumentos) 
+  {
+			System.out.println("Olha, funciona!");
+	}	
+	
+}
