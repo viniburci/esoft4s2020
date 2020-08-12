@@ -4,7 +4,7 @@ public class AppOlá
 {
 	
 	public static void main(String[] argumentos) 
-  {
+ 	{
 			System.out.println("Olha, funciona!");
 	}	
 	
